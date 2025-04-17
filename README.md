@@ -1,6 +1,6 @@
-# 🧠 Fujitsu - Anagram Generator Challenge
+# 🧠 Anagram Generator Challenge
 
-This repository contains the solution to Fujitsu's technical challenge. The goal is to generate all possible permutations (anagrams) of a given word, sorted in lexicographic order, with proper input validation.
+This repository contains the solution to technical challenge. The goal is to generate all possible permutations (anagrams) of a given word, sorted in lexicographic order, with proper input validation.
 
 ---
 
@@ -32,7 +32,7 @@ cd fujitsu-anagram-challenge
 ./gradlew run
 ```
 
-> 💡 By default, the program prints all permutations of the word `abc` or `cba`. You can modify the `main` method in 
+> 💡 By default, the program prints all permutations of the word `abc` or `cba`. You can modify the `main` method in
 > `com.fujitsu.challenge.anagram.Application.java` to test with different words.
 
 ---
@@ -71,13 +71,3 @@ Unit tests were written using JUnit 5 and cover:
 - JUnit 5
 
 ---
-
-## ✍️ Author
-
-Developed by **[Luiz Santigo]** as part of a technical evaluation for **Fujitsu**.
-
----
-
-## 📃 License
-
-This project is for technical assessment purposes only.
